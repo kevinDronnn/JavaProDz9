@@ -1,0 +1,6 @@
+INFO: Starting JuniorCrudServiceApplication using Java 17.0.7 
+DEBUG: User admin created 
+UPDATE: User2 info is updated 
+DELETE: User3 was deleted 
+DEBUG: User15 created 
+INFO: Starting Application using Java 8 
